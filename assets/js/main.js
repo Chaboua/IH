@@ -1,6 +1,5 @@
 /**
-* Template Name: Medicio
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
+* Template Name: Medicio - v4.9.0
 * Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
